@@ -1,1 +1,7 @@
-
+[
+  {
+    "name": "Test App",
+    "description": "This is in fact a test",
+    "apk": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/apps/calculator.apk",
+    "icon": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/icons/calculator.png"
+  }
