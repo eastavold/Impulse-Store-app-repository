@@ -12,9 +12,9 @@
     "icon": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/Icon/Impulse%20Store.png"
   },
   {
-  "name": "SMS Bomber",
-  "description": "The app for sending large amouts of texts",
-  "apk": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/apps/SMSBomber-v1.1.apk",
-  "icon": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/Icon/texrflooder.png",
+    "name": "SMS Bomber",
+    "description": "The app for sending large amounts of texts",
+    "apk": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/apps/SMSBomber-v1.1.apk",
+    "icon": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/Icon/texflooder.png"
   }
 ]
