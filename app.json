@@ -16,5 +16,11 @@
     "description": "The app for sending large amounts of texts",
     "apk": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/apps/SMSBomber-v1.1.apk",
     "icon": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/Icon/textflooder.png"
+  },
+  {
+    "name": "Impulse Search",
+    "description": "The bowser app for Impulse OS",
+    "apk": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/apps/Impulse%20Search.apk",
+    "icon": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/Icon/Impulse%20Search.png"
   }
 ]
