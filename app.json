@@ -4,5 +4,11 @@
     "description": "This is in fact a test",
     "apk": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/apps/Test.apk",
     "icon": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/Icon/Test.jpeg"
+  },
+  {
+    "name": "Impulse Store",
+    "description": "The app store for Impulse OS",
+    "apk": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/apps/The Impulse Store.apk",
+    "icon": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/Icon/Impulse Store.png",
   }
 ]
