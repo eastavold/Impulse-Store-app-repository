@@ -25,8 +25,8 @@
   },
   {
     "name": "Slice Beam",
-    "description": "An app for slicing 3D models on your phone with the cloud",
+    "description": "An app for slicing 3D models on your phone without the cloud",
     "apk": "https://github.com/utkabobr/SliceBeam/releases/download/0.3.0/SliceBeam_dd7a6ddf1d.apk",
-    "icon": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/Icon/Test.jpeg"
+    "icon": "https://raw.githubusercontent.com/utkabobr/SliceBeam/master/app/src/main/res/mipmap/icon.png"
   }
 ]
