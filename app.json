@@ -3,30 +3,35 @@
     "name": "Test App",
     "description": "This is in fact a test",
     "apk": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/apps/Test.apk",
-    "icon": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/Icon/Test.jpeg"
+    "icon": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/Icon/Test.jpeg",
+    "category": "Other"
   },
   {
     "name": "Impulse Store",
     "description": "The app store for Impulse OS",
     "apk": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/apps/The%20Impluse%20Store.apk",
-    "icon": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/Icon/Impulse%20Store.png"
+    "icon": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/Icon/Impulse%20Store.png",
+    "category": "Other"
   },
   {
     "name": "SMS Bomber",
     "description": "The app for sending large amounts of texts",
     "apk": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/apps/SMSBomber-v1.1.apk",
-    "icon": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/Icon/textflooder.png"
+    "icon": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/Icon/textflooder.png",
+    "category": "Games"
   },
   {
     "name": "Impulse Search",
     "description": "The bowser app for Impulse OS",
     "apk": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/apps/Impulse%20Search.apk",
-    "icon": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/Icon/Impulse%20Search.png"
+    "icon": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/Icon/Impulse%20Search.png",
+    "category": "Games"
   },
   {
     "name": "Slice Beam",
     "description": "An app for slicing 3D models on your phone without the cloud",
     "apk": "https://github.com/utkabobr/SliceBeam/releases/download/0.3.0/SliceBeam_dd7a6ddf1d.apk",
-    "icon": "https://raw.githubusercontent.com/utkabobr/SliceBeam/master/app/src/main/res/mipmap/icon.png"
+    "icon": "https://raw.githubusercontent.com/utkabobr/SliceBeam/master/app/src/main/res/mipmap/icon.png",
+    "category": "Games"
   }
 ]
