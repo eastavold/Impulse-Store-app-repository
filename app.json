@@ -22,5 +22,11 @@
     "description": "The bowser app for Impulse OS",
     "apk": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/apps/Impulse%20Search.apk",
     "icon": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/Icon/Impulse%20Search.png"
+  },
+  {
+    "name": "Slice Beam",
+    "description": "An app for slicing 3D models on your phone with the cloud",
+    "apk": "https://github.com/utkabobr/SliceBeam/releases/download/0.3.0/SliceBeam_dd7a6ddf1d.apk",
+    "icon": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/Icon/Test.jpeg"
   }
 ]
