@@ -50,5 +50,18 @@
     "developer": "utkabobr",
     "minAndroid": 24,
     "sizeMB": 18.2
-  }
+  },
+  {
+  "name": "SMS Bomber",
+  "description": "The app for sending large amounts of texts",
+  "apk": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/apps/SMSBomber-v1.1.apk",
+  "icon": "https://raw.githubusercontent.com/eastavold/Impulse-Store-app-repository/main/Icon/textflooder.png",
+  "category": "Communication",
+  "packageName": "com.boingsoftwaredevelopment.smsbomber",
+  "versionCode": 1,
+  "versionName": "1",
+  "developer": "Boing Software Development",
+  "minAndroid": 27,
+  "sizeMB": 42.5
+}
 ]
